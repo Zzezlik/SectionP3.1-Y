@@ -1,0 +1,38 @@
+* {
+  font-family: "Inter", sans-serif;
+}
+
+body {
+  margin: 46px 96px;
+}
+
+header {
+  background-color: #ffe500;
+  padding: 1px 0px;
+}
+.header-name {
+  text-align: center;
+
+  font-weight: bold;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
+  color: black;
+  font-size: 32px;
+}
+
+.text-list > li > h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 20px;
+  width: 75%;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: blue;
+}

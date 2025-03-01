@@ -18,8 +18,7 @@ header {
   color: black;
   font-size: 32px;
 }
-
-.text-list > li > h1 {
+h3 {
   font-size: 24px;
 }
 
